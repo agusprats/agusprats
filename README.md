@@ -1,4 +1,4 @@
-<h2> Hi, I'm Agustina Prats! <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="90"></h2>
+<h2> Hi, I'm Agustina Prats! <img src="" width="90"></h2>
 <img align='right' src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="230">
 <p><em>Front End Development Diploma Student at <a href="https://www.utn.edu.ar/es/">UTN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
@@ -7,7 +7,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="90"> A little more about me...  
+### <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="120"> A little more about me...  
 
 ```javascript
 const agusprats = {
@@ -16,9 +16,9 @@ const agusprats = {
   tools: [React, Node, Mongodb, Styled-Components, Angular],
   others: ["photography", "adobe-photoshop"],
   techCommunities: {
-                        Dev_Frontend: "FaztTech",
-                        Trainee: "IrishComputerSociety",
-                      },
+                     Dev_Frontend: "FaztTech",
+                     Trainee: "IrishComputerSociety",
+                   },
 }
 ```
 
