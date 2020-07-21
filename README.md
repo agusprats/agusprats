@@ -7,7 +7,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="120"> A little more about me...  
+###  A little more about me...  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="120">
 
 ```javascript
 const agusprats = {
