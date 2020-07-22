@@ -45,7 +45,7 @@ module.exports = mongoose.model('tool', toolSchema);
 
 ---
 - 🔭  I’m currently working on my portfolio and learning how to deploy web applications...
-- 🌱  Tech communities I like: ICS and WWCode.
+- 🌱  Tech communities I like: Irish Computer Society and WWCode.
 - 😄  Fun fact: I´m also a lawyer and photographer.
 
 
