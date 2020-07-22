@@ -1,5 +1,5 @@
-<h2>  Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="150"> 
-<img align='right' src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200"></h2>
+<h2>  Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="100"> 
+<img align='right' src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="150"></h2>
 <p><em>Frontend Development Student at <a href="https://www.utn.edu.ar/es/">U.T.N. </a></br>
 </em></p>
 
@@ -7,7 +7,7 @@
 
 
 
-###  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="100"> A little more about me...  
+###  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
 const agusprats = require('agusprats');
@@ -44,9 +44,9 @@ module.exports = mongoose.model('tool', toolSchema);
 
 
 ---
-- 🔭  I’m currently working on my portfolio
-- 🤔  I’m currently learning how to deploy applications
-- 😄  Fun fact: I´m also a lawyer and photographer
+- 🔭  I’m currently working on my portfolio and learning how to deploy web applications...
+- 🌱  Tech communities I like: ICS and WWCode.
+- 😄  Fun fact: I´m also a lawyer and photographer.
 
 
 <!--
