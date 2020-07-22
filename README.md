@@ -1,6 +1,6 @@
-<h2> Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="150"></h2>
+<img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="150"> <h2>  Hi, I'm Agustina ! </h2>
 <img align='right' src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200">
-<p><em>Front End Development Student at <a href="https://www.utn.edu.ar/es/">U.T.N. </a></br>
+<p><em>Frontend Development Student at <a href="https://www.utn.edu.ar/es/">U.T.N. </a></br>
 </em></p>
 
 [![Linkedin: agustinaprats](https://img.shields.io/badge/-agustinaprats-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinaprats/)](https://www.linkedin.com/in/agustina-prats-1157a916/)
@@ -16,12 +16,12 @@ const Schema = mongoose.Schema;
 
 const skillSchema = newSchema({
      Javascript: {required: true},
-     Mat|r: {required: true},
+     Matr: {required: true},
      HTML5: {required: true},
      CSS3: {required: true},
      tools: {
           type: Schema.Types.ObjectId,
-          ref:'tool'
+          ref:'tool',
      }
 });
 
