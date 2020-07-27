@@ -25,6 +25,8 @@ const skillSchema = newSchema({
      }
 });
 
+module.exports = mongoose.model('skill', skillSchema);
+
 const toolSchema = new Schema({
      React: String,
      NodeJs: String,
@@ -37,7 +39,6 @@ const toolSchema = new Schema({
      }
 });       
 
-module.exports = mongoose.model('skill', skillSchema);
 module.exports = mongoose.model('tool', toolSchema);
 
 ```
@@ -46,7 +47,7 @@ module.exports = mongoose.model('tool', toolSchema);
 ---
 - 🔭  I’m currently working on my portfolio and learning how to deploy web applications...
 - 🌱  Tech communities I like: Irish Computer Society and WWCode.
-- 😄  Fun fact: I´m also a lawyer and photographer.
+- 😄  Fun fact: I´m also lawyer and photographer.
 
 
 <!--
