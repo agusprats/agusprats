@@ -10,9 +10,8 @@
 ###  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
-const agusprats = require('agusprats');
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const { Schema, model } = require('mongoose');
+
 
 const skillSchema = newSchema({
      Javascript: {required: true},
@@ -25,12 +24,13 @@ const skillSchema = newSchema({
      }
 });
 
-module.exports = mongoose.model('skill', skillSchema);
+module.exports = model('aguspratsSkills', skillSchema);
 
 const toolSchema = new Schema({
      React: String,
      NodeJs: String,
      Mongodb: String,
+     Express: String,
      Angular: String,
      Bootstrap: String,
      seller: {
@@ -39,7 +39,7 @@ const toolSchema = new Schema({
      }
 });       
 
-module.exports = mongoose.model('tool', toolSchema);
+module.exports = model('aguspratsTools', toolSchema);
 
 ```
 
