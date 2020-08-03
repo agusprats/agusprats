@@ -45,7 +45,7 @@ module.exports = model('aguspratsTools', toolSchema);
 
 
 ---
-- 🔭  I’m currently working on my portfolio and learning how to deploy web applications...
+- 🔭  I’m currently working on my portfolio ...
 - 🌱  Tech communities I like: Irish Computer Society and WWCode.
 - 😄  Fun fact: I´m also lawyer and photographer.
 
