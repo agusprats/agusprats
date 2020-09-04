@@ -12,34 +12,21 @@
 ```javascript
 const { Schema, model } = require('mongoose');
 
-
 const skillSchema = newSchema({
-     Javascript: {required: true},
+     Javascript: {
+          Mongodb: true,
+          Express: true,
+          React: true,
+          Angular: true,
+          NodeJS: true,
+          Bootstrap: true,
+          },
      Matr: {required: true},
      HTML5: {required: true},
      CSS3: {required: true},
-     tools: {
-          type: Schema.Types.ObjectId,
-          ref:'tool',
-     }
-});
+     });
 
-module.exports = model('aguspratsSkills', skillSchema);
-
-const toolSchema = new Schema({
-     React: String,
-     NodeJs: String,
-     Mongodb: String,
-     Express: String,
-     Angular: String,
-     Bootstrap: String,
-     seller: {
-            type: Schema.Types.ObjectId,
-            ref: 'skill',
-     }
-});       
-
-module.exports = model('aguspratsTools', toolSchema);
+module.exports = mongoose.model('aguspratsSkills', skillSchema);
 
 ```
 
