@@ -33,9 +33,6 @@ module.exports = mongoose.model('aguspratsSkills', skillSchema);
 
 ---
 - 🔭  I’m currently working on my portfolio ...
-- 🌱  Tech communities I like: Irish Computer Society and WWCode.
-- 😄  Fun fact: I´m also lawyer and photographer.
-
 
 <!--
 **agusprats/agusprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
