@@ -1,4 +1,5 @@
 <h2>  Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="100"> 
+      
 </h2>
 <p><em>Frontend Development Student at <a href="https://www.utn.edu.ar/es/" target="new">U.T.N. </a></br>
 </em></p>
