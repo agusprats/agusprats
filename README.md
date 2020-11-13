@@ -14,17 +14,18 @@
 const { Schema, model } = require('mongoose');
 
 const skillSchema = newSchema({
-     Javascript: {
+     FrontEnd: {
+          Html5: true,
+          Css3: true,
+          JavaScript: true,
+          Bootstrap: true
+          },
+      MernStack: {
           Mongodb: true,
           Express: true,
           React: true,
-          Angular: true,
-          NodeJS: true,
-          Bootstrap: true,
+          NodeJS: true
           },
-     Matr: {required: true},
-     HTML5: {required: true},
-     CSS3: {required: true},
      });
 
 module.exports = mongoose.model('aguspratsSkills', skillSchema);
@@ -33,7 +34,7 @@ module.exports = mongoose.model('aguspratsSkills', skillSchema);
 
 
 ---
-- 🔭  I’m currently working on my portfolio ...
+- 🔭  I’m currently learning Backend skills, and having fun with React improving my portfolio ...
 
 <!--
 **agusprats/agusprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
