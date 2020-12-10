@@ -11,7 +11,7 @@
 ###  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
-const { Schema, model } = require('mongoose');
+import { Schema, model } from 'mongoose';
 
 const skillSchema = newSchema({
      FrontEnd: {
@@ -28,7 +28,7 @@ const skillSchema = newSchema({
           },
      });
 
-module.exports = mongoose.model('aguspratsSkills', skillSchema);
+export default model('aguspratsSkills', skillSchema);
 
 ```
 
