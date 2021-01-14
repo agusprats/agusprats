@@ -34,7 +34,7 @@ export default model('aguspratsSkills', skillSchema);
 
 
 ---
-- 🔭  I’m currently learning Backend skills, and having fun with React improving my portfolio ...
+- 🔭   Currently learning Backend skills, and having fun with React, improving my portfolio ...
 
 <!--
 **agusprats/agusprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
