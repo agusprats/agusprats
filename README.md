@@ -25,17 +25,17 @@ const skillSchema = newSchema({
             Css3: true,
             JavaScript: true,
             Bootstrap: true,
-            Styled Components
+            Styled Components: true
             },
      Others: {
-            Git
-            Heroku,
-            Firebase,
-            Firestore,
-            NextJS,
-            Vervel,
-            Netlify,
-            Postman
+            Git: true,
+            Heroku: true,
+            Firebase: true,
+            Firestore: true,
+            NextJS: true,
+            Vervel: true,
+            Netlify: true,
+            Postman: true
             }      
      });
 
