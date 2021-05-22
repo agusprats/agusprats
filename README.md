@@ -1,7 +1,7 @@
 <h2>  Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="100"> 
       
 </h2>
-<p><em>Frontend Developer<br/> but also ... <br/>Backend Developer student at <a href="https://adaitw.org/" target="new">ADA ITW</a></br>
+<p><em>Fullstack Developer<br/> but also ... <br/>Bakery enthusiastic at Home</br>
 </em></p>
 
 [![Linkedin: agustinaprats](https://img.shields.io/badge/-agustinaprats-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinaprats/)](https://www.linkedin.com/in/agustina-prats-1157a916/)
@@ -14,18 +14,29 @@
 import { Schema, model } from 'mongoose';
 
 const skillSchema = newSchema({
+     MernStack: {
+            Mongodb: true,
+            Express: true,
+            React: true,
+            NodeJS: true
+            },
      FrontEnd: {
-          Html5: true,
-          Css3: true,
-          JavaScript: true,
-          Bootstrap: true
-          },
-      MernStack: {
-          Mongodb: true,
-          Express: true,
-          React: true,
-          NodeJS: true
-          },
+            Html5: true,
+            Css3: true,
+            JavaScript: true,
+            Bootstrap: true,
+            Styled Components
+            },
+     Others: {
+            Git
+            Heroku,
+            Firebase,
+            Firestore,
+            NextJS,
+            Vervel,
+            Netlify,
+            Postman
+            }      
      });
 
 export default model('aguspratsSkills', skillSchema);
@@ -34,7 +45,7 @@ export default model('aguspratsSkills', skillSchema);
 
 
 ---
-- 🔭   Currently learning Backend skills, and having fun with React, improving my portfolio ...
+- 🔭   Currently learning more about Node Backend skills, and having a lot of fun with React, improving my projects ...
 
 <!--
 **agusprats/agusprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
