@@ -1,7 +1,7 @@
 <h2>  Hi, I'm Agustina ! <img src="https://media.giphy.com/media/gitdNOfXczQxBZjqd4/giphy.gif" width="100"> 
       
 </h2>
-<p><em>Fullstack Developer<br/> but also ... <br/>Bakery enthusiastic at Home</br>
+<p><em>Fullstack Developer<br/> but also ... <br/>Bakery enthusiast at Home</br>
 </em></p>
 
 [![Linkedin: agustinaprats](https://img.shields.io/badge/-agustinaprats-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinaprats/)](https://www.linkedin.com/in/agustina-prats-1157a916/)
