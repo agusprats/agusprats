@@ -10,42 +10,8 @@
 
 ###  <img src="https://media.giphy.com/media/igJPynWJ6ZfUChLAD6/giphy.gif" width="80"> A little more about me...  
 
-```javascript
-import { Schema, model } from 'mongoose';
-
-const skillSchema = newSchema({
-     MernStack: {
-            Mongodb: true,
-            Express: true,
-            React: true,
-            NodeJS: true
-            },
-     FrontEnd: {
-            Html5: true,
-            Css3: true,
-            JavaScript: true,
-            Bootstrap: true,
-            Styled Components: true
-            },
-     Others: {
-            Git: true,
-            Heroku: true,
-            Firebase: true,
-            Firestore: true,
-            NextJS: true,
-            Vervel: true,
-            Netlify: true,
-            Postman: true
-            }      
-     });
-
-export default model('aguspratsSkills', skillSchema);
-
-```
-
-
 ---
-- 🔭   Currently learning more about Node Backend skills, and having a lot of fun with React, improving my projects ...
+- 🔭   Currently improving my Next.js & Typescript skills, and having a lot of fun with React ...
 
 <!--
 **agusprats/agusprats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
